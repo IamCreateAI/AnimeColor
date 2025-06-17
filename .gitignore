@@ -1,0 +1,5 @@
+/checkpoints
+__pycache__/
+results
+*.pyc
+*.pkl
