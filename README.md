@@ -1,12 +1,8 @@
 ## AnimeColor: AnimeColor: Reference-based Animation Colorization with Diffusion Transformers
 
+Official implementation of [**AnimeColor: AnimeColor: Reference-based Animation Colorization with Diffusion Transformers**](https://arxiv.org/abs/2507.20158), ACM MM 2025 
 
-<a href='https://arxiv.org/abs/2507.20158'><img src='https://img.shields.io/badge/arXiv-2501.08295-b31b1b.svg'></a> &nbsp;
-
-Official implementation of **AnimeColor: AnimeColor: Reference-based Animation Colorization with Diffusion Transformers**, ACM MM 2025 
-
-<div align="center"> <img src='assets/demo_ss.gif'></img></div>
-
+<div align="center"> <img src='assets/demo_s.gif'></img></div>
 
 
 ### Environment
