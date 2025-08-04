@@ -1,6 +1,12 @@
 ## AnimeColor: AnimeColor: Reference-based Animation Colorization with Diffusion Transformers
 
 
+<a href='https://arxiv.org/abs/2507.20158'><img src='https://img.shields.io/badge/arXiv-2501.08295-b31b1b.svg'></a> &nbsp;
+
+Official implementation of **AnimeColor: AnimeColor: Reference-based Animation Colorization with Diffusion Transformers**, ACM MM 2025 
+
+<div align="center"> <img src='assets/demo.gif'></img></div>
+
 ### Environment
 ```
 conda create -n animecolor python=3.10
@@ -45,6 +51,11 @@ If you have any questions, you can contact rainbowow@sjtu.edu.cn.
 ### Citation
 If you find our work useful, please consider citing us:
 ```
-
+@article{zhang2025animecolor,
+      title={AnimeColor: Reference-based Animation Colorization with Diffusion Transformers}, 
+      author={Yuhong Zhang and Liyao Wang and Han Wang and Danni Wu and Zuzeng Lin and Feng Wang and Li Song},
+      journal={arXiv preprint arXiv:2507.20158},
+      year={2025}
+}
 
 ```
