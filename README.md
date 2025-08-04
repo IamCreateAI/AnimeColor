@@ -5,7 +5,9 @@
 
 Official implementation of **AnimeColor: AnimeColor: Reference-based Animation Colorization with Diffusion Transformers**, ACM MM 2025 
 
-<div align="center"> <img src='assets/demo.gif'></img></div>
+<!-- <div align="center"> <img src='assets/demo.gif'></img></div> -->
+![demo](assets/demo.gif)
+
 
 ### Environment
 ```
